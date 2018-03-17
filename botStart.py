@@ -40,5 +40,8 @@ async def Chrutercraft(ctx):
 @client.command(pass_context=True)
 async def Chapparal(ctx):
     await client.say("Warhammer Boy\nHas a kid/needs a brewski\n ")
+@client.command(pass_context=True)
+async def Chapparal(ctx):
+    await client.say("Lady Bits Doctor\nLoves avocados more than life itself\n ")
 
 client.run("NDI0NDAxNzQ0ODk5MDgwMjAy.DY4a5Q.Azg8XeK5rnm_zBgPc9OsDUlCpKs")
